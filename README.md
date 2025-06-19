@@ -1,1 +1,6 @@
-# Tableau
+# [Tableau](https://public.tableau.com/app/profile/serhii.kutkovskyi/vizzes)
+![Netflix](https://github.com/user-attachments/assets/8750b63f-1247-4f23-81ac-b116e4d3038c)
+![SESSION ANALYSIS](https://github.com/user-attachments/assets/82087d03-7fe6-4b6c-8d7b-8104f8b2d164)
+![Sales](https://github.com/user-attachments/assets/0ba883af-d947-4f4e-a8df-9cca540040f4)
+![Email Metrics](https://github.com/user-attachments/assets/ec712345-13d2-4040-a7c0-5c3084acd4c0)
+![Dashboard 1(1)](https://github.com/user-attachments/assets/68380ea8-800d-4b7a-afd7-32284d1bcf04)
